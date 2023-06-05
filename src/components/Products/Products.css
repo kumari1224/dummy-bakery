@@ -38,3 +38,9 @@
     width: 80px;
     background: gray;
 }
+
+@media (max-width: 768px) {
+    .products-container {
+        padding-bottom: 200px;
+    }
+}

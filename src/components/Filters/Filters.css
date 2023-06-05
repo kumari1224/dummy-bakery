@@ -30,3 +30,9 @@
     font-family: 'Alegreya SC', serif;
     font-size: 14px;
 }
+
+@media (max-width: 768px) {
+    .filters-container {
+        display: none;
+    }
+}

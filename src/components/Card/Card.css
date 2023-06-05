@@ -6,6 +6,12 @@
     color: #d7737b;
 }
 
+@media (max-width: 768px) {
+    .card-main {
+        width: 90%;
+    }
+}
+
 .card-main:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
     background: #8080801c
