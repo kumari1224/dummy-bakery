@@ -1,0 +1,32 @@
+.filters-container {
+    font-family: 'Pacifico', cursive;
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    position: relative;
+    box-shadow: 1px 7px 5px #aaaaaa6e;
+    border-radius: 5px;
+    padding: 50px 0 20px 0; 
+    top: 80px;
+}
+
+.filter-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.filter-img {
+    height: 80px;
+    width: 80px;
+}
+
+.filter-title {
+    font-size: 24px;
+    color: #5c4b4d;
+}
+
+.filter-desc {
+    font-family: 'Alegreya SC', serif;
+    font-size: 14px;
+}

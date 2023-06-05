@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Products",
+        "description": "View our products",
+        "image": "https://img.freepik.com/free-vector/muffin-cake_78370-538.jpg?w=740&t=st=1685810293~exp=1685810893~hmac=82292cc1e3f99eefdcb283357af78dc944d3f1cae17d6eea70ec10d6362ed4b0"
+    },
+    {
+        "id": 2,
+        "title": "Cake Class",
+        "description": "View our cake classes",
+        "image": "https://img.freepik.com/premium-vector/cartoon-creamy-cupcake-decorated-with-cherry_575215-47.jpg?w=740"
+    },
+    {
+        "id": 3,
+        "title": "Receipes",
+        "description": "View our different Receipes",
+        "image": "https://img.freepik.com/premium-vector/cupcake-vector-set-illustration-isolated-white-background_263016-1059.jpg"
+    }
+]

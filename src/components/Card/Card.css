@@ -1,0 +1,49 @@
+.card-main {
+    width: calc(25% - 20px);
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    text-align: center;
+    border-radius: 5px;
+    color: #d7737b;
+}
+
+.card-main:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    background: #8080801c
+}
+
+.card-main img {
+    height: 150px;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+    border-bottom: 2px solid #00000026;
+}
+
+.card-main button {
+    background: white;
+    border: 1px solid #80808078;
+    border-radius: 2px;
+    padding: 8px 20px;
+    position: relative;
+    bottom: -10px;
+    color: #d7737b;
+    font-weight: bold;
+}
+
+.card-main button:hover {
+    background-color: #d7737b;
+    color: white;
+}
+
+.margin-10 {
+    margin: 10px;
+}
+
+.card-title{
+    color: #5c4b4d;
+}
+
+.card-main .added {
+    background-color: #d7737b;
+    color: white;
+}

@@ -1,0 +1,33 @@
+.bg-strip {
+    background: #f3ebe3;
+    height: 150px;
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+}
+
+.app-container {
+    width: 80%;
+    margin: 0px auto;
+}
+
+.app-cart {
+    position: absolute;
+    right: 0;
+    padding: 10px;
+}
+
+.app-cart-icon {
+    width: 30px;
+    height: 30px;
+}
+
+.cart-count {
+    top: 10px;
+    position: relative;
+    background: red;
+    color: white;
+    display: inline-block;
+    padding: 0 3px;
+    right: 35px;
+}
